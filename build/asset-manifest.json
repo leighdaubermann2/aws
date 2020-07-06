@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://master.d2m37dimhoingy.amplifyapp.com/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://master.d2m37dimhoingy.amplifyapp.com/static/js/main.b712cbcc.chunk.js",
+    "main.js.map": "https://master.d2m37dimhoingy.amplifyapp.com/static/js/main.b712cbcc.chunk.js.map",
+    "runtime-main.js": "https://master.d2m37dimhoingy.amplifyapp.com/static/js/runtime-main.809df57e.js",
+    "runtime-main.js.map": "https://master.d2m37dimhoingy.amplifyapp.com/static/js/runtime-main.809df57e.js.map",
+    "static/js/2.1a0694e9.chunk.js": "https://master.d2m37dimhoingy.amplifyapp.com/static/js/2.1a0694e9.chunk.js",
+    "static/js/2.1a0694e9.chunk.js.map": "https://master.d2m37dimhoingy.amplifyapp.com/static/js/2.1a0694e9.chunk.js.map",
+    "index.html": "https://master.d2m37dimhoingy.amplifyapp.com/index.html",
+    "precache-manifest.7f78022b19016054512ee57f512caf12.js": "https://master.d2m37dimhoingy.amplifyapp.com/precache-manifest.7f78022b19016054512ee57f512caf12.js",
+    "service-worker.js": "https://master.d2m37dimhoingy.amplifyapp.com/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://master.d2m37dimhoingy.amplifyapp.com/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1a0694e9.chunk.js.LICENSE.txt": "https://master.d2m37dimhoingy.amplifyapp.com/static/js/2.1a0694e9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://master.d2m37dimhoingy.amplifyapp.com/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.809df57e.js",
+    "static/js/2.1a0694e9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b712cbcc.chunk.js"
+  ]
+}
